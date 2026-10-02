@@ -2,26 +2,21 @@
 
 ## About this project
 
-This project explores the evaluation and analysis of AI-generated responses to scientific questions in the life sciences.
+This portfolio presents examples of evaluating and analyzing AI-generated responses to scientific questions in the life sciences.
 
-## Objectives
+## Areas of focus
 
-- Evaluate the accuracy of AI-generated scientific responses.
-- Identify factual errors and unsupported claims.
-- Compare responses using scientific reasoning.
-- Explore the use of AI in biology and biomedical sciences.
+- Biology and biomedical sciences
+- Scientific reasoning
+- Evaluation of AI-generated responses
+- Accuracy and factual consistency
+- Data analysis
+- Evidence-based scientific assessment
 
-## Areas of interest
+## Objective
 
-- Biology
-- Molecular Biology
-- Biochemistry
-- Genetics
-- Microbiology
-- Biomedical Sciences
-- Artificial Intelligence
-- AI Evaluation
+The objective of this project is to demonstrate the ability to evaluate scientific AI responses, identify inaccuracies, and provide clear, evidence-based analysis.
 
-## About me
+## Examples
 
-I am a medical professional interested in artificial intelligence, scientific research, AI evaluation, and life-science applications.
+This repository includes examples of scientific question evaluation and analysis of AI-generated responses.
